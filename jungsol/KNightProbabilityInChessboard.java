@@ -1,5 +1,3 @@
-package knightProbabilityInChessboard;
-
 import java.util.Arrays;
 
 public class KNightProbabilityInChessboard {
