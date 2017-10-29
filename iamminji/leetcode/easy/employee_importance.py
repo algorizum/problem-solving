@@ -42,6 +42,6 @@ class Solution:
         res = 0
         for emp in employees:
             if emp.id == id:
-                visited[emp.id] = True
                 res = emp.importance + self.helper(visited, emp.subordinates, employees)
+                visited[emp.id] = res
         return res
