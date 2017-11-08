@@ -1,0 +1,49 @@
+class Solution {
+    public String longestWord(String[] words) {
+		Arrays.sort(words, new java.util.Comparator<String>(){
+			@Override
+			public int compare(String o1, String o2) {
+				return o1.length()-o2.length();
+			}			
+		});
+        String lwd = words[0];
+		List<String> prior = null;
+		List<String> cur = new ArrayList<>();
+		int curlength = 1;
+		int idx = 0;
+
+		for (;; idx++) {
+			if (words[idx].length() - curlength > 1)
+				return lwd;
+			else if (words[idx].length() - curlength == 0) {
+				cur.add(words[idx]);
+				lwd = words[idx].compareTo(lwd)<=0?words[idx]:lwd;
+			} else if (words[idx].length() - curlength == 1) {
+				curlength++;
+				prior = cur;
+				cur = new ArrayList<>();
+				break;
+			}
+		}
+		for (int i = idx; i < words.length; i++) {
+			if (words[i].length() - curlength > 1 || prior.size() == 0) {
+				break;
+			} else if (words[i].length() - curlength > 0) {
+				curlength++;
+				prior = cur;
+				cur = new ArrayList<>();
+			}
+
+			
+            if(prior.contains(words[i].substring(0, curlength-1))){
+				cur.add(words[i]);
+				if (lwd.length() < words[i].length()) {
+					lwd = words[i];
+				} else if (lwd.length() == words[i].length() && words[i].compareTo(lwd) < 0) {
+					lwd = words[i];
+				}
+			}
+		}
+		return lwd;
+	}
+}
