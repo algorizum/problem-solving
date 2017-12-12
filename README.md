@@ -1,7 +1,18 @@
 # problem-solving
-algorithms
 
-# This week's problems. 2017-12-05~2017-12-12
+# This week's problems. 
+### 2017-12-12~2017-12-19
+
+- Sentence Simility II(Medium) https://leetcode.com/problems/sentence-similarity-ii/description/
+
+- Monotone Increasing Digits(Medium) https://leetcode.com/problems/monotone-increasing-digits/description/
+
+- Daily Temperatures(Medium) https://leetcode.com/problems/daily-temperatures/description/
+
+- Max Area of Island(Easy) https://leetcode.com/problems/max-area-of-island/submissions/1
+
+
+### 2017-12-05~2017-12-12
 
 - Asteroid Collision https://leetcode.com/problems/asteroid-collision/description/
 
