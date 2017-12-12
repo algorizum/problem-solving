@@ -9,7 +9,7 @@
 
 - Daily Temperatures(Medium) https://leetcode.com/problems/daily-temperatures/description/
 
-- Max Area of Island(Easy) https://leetcode.com/problems/max-area-of-island/submissions/1
+- Max Area of Island(Easy) https://leetcode.com/problems/max-area-of-island/description/
 
 
 ### 2017-12-05~2017-12-12
