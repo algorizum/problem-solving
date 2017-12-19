@@ -1,6 +1,17 @@
 # problem-solving
 
 # This week's problems. 
+
+### 2017-12-19~2017-12-26
+
+- Find Peak Element(Medium) https://leetcode.com/problems/find-peak-element/description/
+
+- Best Time to Buy and Sell Stock with Transaction Fee(Medium) https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
+
+- Merge Intervals(Medium) https://leetcode.com/problems/merge-intervals/description/
+
+- Cherry Pickup(Hard) https://leetcode.com/problems/cherry-pickup/description/
+
 ### 2017-12-12~2017-12-19
 
 - Sentence Simility II(Medium) https://leetcode.com/problems/sentence-similarity-ii/description/
