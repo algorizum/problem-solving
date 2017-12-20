@@ -7,7 +7,7 @@ private:
     int peak(vector<int>& nums, int left, int right) {
         if (left == right) return left;
         int mid = (left + right) / 2;
-        if (mid == nums.size() - 1 || nums[mid] >= nums[mid + 1]) return peak(nums, left, mid);
+        if (nums[mid] >= nums[mid + 1]) return peak(nums, left, mid);
         return peak(nums, mid + 1, right);
     }
 };
