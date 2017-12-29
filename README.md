@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2017-12-26~2018-01-02
+
+- Min Cost Climbing Stairs(Easy) https://leetcode.com/problems/min-cost-climbing-stairs/description/
+
+- Sum Root to Leaf Numbers(Medium) https://leetcode.com/problems/sum-root-to-leaf-numbers/description/
+
+- Delete Node in a BST(Medium) https://leetcode.com/problems/delete-node-in-a-bst/description/
+
+- Cracking the Safe(Hard) https://leetcode.com/problems/cracking-the-safe/description/
+
 ### 2017-12-19~2017-12-26
 
 - Find Peak Element(Medium) https://leetcode.com/problems/find-peak-element/description/
