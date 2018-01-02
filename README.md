@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-01-02~2018-01-09
+
+- Majority Element II(Medium) https://leetcode.com/problems/majority-element-ii/description/
+
+- Reach a Number(Medium) https://leetcode.com/problems/reach-a-number/description/
+
+- Pyramid Transition Matrix(Medium) https://leetcode.com/problems/pyramid-transition-matrix/description/
+
+- Set Intersection Size At Least Two(Hard) https://leetcode.com/problems/set-intersection-size-at-least-two/description/
+
 ### 2017-12-26~2018-01-02
 
 - Min Cost Climbing Stairs(Easy) https://leetcode.com/problems/min-cost-climbing-stairs/description/
