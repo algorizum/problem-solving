@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-01-09~2018-01-16
+
+- Arranging Coin(Easy) https://leetcode.com/problems/arranging-coins/description
+
+- Binary Tree Zigzag Level Order Traversal(Medium) https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description
+
+- Binary Tree Right Side View(Medium) https://leetcode.com/problems/binary-tree-right-side-view/description/ 
+
+- Employee Free Time(Hard) https://leetcode.com/problems/employee-free-time/description 
+
 ### 2018-01-02~2018-01-09
 
 - Majority Element II(Medium) https://leetcode.com/problems/majority-element-ii/description/
