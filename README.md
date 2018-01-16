@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-01-16~2018-01-23
+
+- Sort Colors(Medium) https://leetcode.com/problems/sort-colors/description/
+
+- Search in Rotated Sorted Array(Medium) https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+- Largest Plus Sign(Medium) https://leetcode.com/problems/largest-plus-sign/description/
+
+- Special Binary String(Hard) https://leetcode.com/problems/special-binary-string/description/
+
 ### 2018-01-09~2018-01-16
 
 - Arranging Coin(Easy) https://leetcode.com/problems/arranging-coins/description
