@@ -10,8 +10,15 @@ public class SearchInRotatedSortedArray {
 		int mid = (l + r) / 2;
 		if (target == nums[mid])
 			return mid;
-		else if (nums[l] > nums[r] || (target >= nums[l] && target <= nums[r]))
-			return Math.max(getIndex(nums, l, mid, target), getIndex(nums, mid + 1, r, target));
+        else if(r==l)return -1;
+        
+		if(nums[l]>nums[r]){
+			if(target>=nums[l] ||target<=nums[r])return Math.max(getIndex(nums, l, mid, target), getIndex(nums, mid + 1, r, target));
+        }else if(target>=nums[l] && target<nums[mid]){
+            return getIndex(nums, l, mid, target);
+        }else if(target>nums[mid] && target<=nums[r]) {
+            return getIndex(nums, mid + 1, r, target);
+        }
 		return -1;
 	}
 }
