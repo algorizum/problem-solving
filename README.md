@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-01-23~2018-01-30
+
+- Reorganize String(Medium) https://leetcode.com/problems/reorganize-string/description
+
+- Invert Binary Tree(Easy) https://leetcode.com/problems/invert-binary-tree/description/
+
+- Max Chunks To Make Sorted(Medium) https://leetcode.com/problems/max-chunks-to-make-sorted/description/
+
+- Max Chunks To Make Sorted II(Hard) https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/
+
 ### 2018-01-16~2018-01-23
 
 - Sort Colors(Medium) https://leetcode.com/problems/sort-colors/description/
