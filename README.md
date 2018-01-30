@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-01-30~2018-02-06
+
+- Largest Number At Least Twice of Others(Easy) https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
+
+- Wiggle Sort II(Medium) https://leetcode.com/problems/wiggle-sort-ii/description/
+
+- My Calendar II(Medium) https://leetcode.com/problems/my-calendar-ii/description/
+
+- Sliding Puzzle(Hard) https://leetcode.com/problems/sliding-puzzle/description/
+
 ### 2018-01-23~2018-01-30
 
 - Reorganize String(Medium) https://leetcode.com/problems/reorganize-string/description
