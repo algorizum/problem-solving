@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-02-06~2018-02-13
+
+- Kth Largest Element in an Array(Medium) https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+
+- Swap Adjacent in LR String(Medium) https://leetcode.com/problems/swap-adjacent-in-lr-string/description/
+
+- K-th Symbol in Grammar(Medium) https://leetcode.com/problems/k-th-symbol-in-grammar/description/
+
+- Swim in Rising Water(Hard) https://leetcode.com/problems/swim-in-rising-water/description/
+
 ### 2018-01-30~2018-02-06
 
 - Largest Number At Least Twice of Others(Easy) https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
