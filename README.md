@@ -2,6 +2,14 @@
 
 # This week's problems. 
 
+- Custom Sort String(Medium) https://leetcode.com/problems/custom-sort-string/description/
+
+- Escape the ghosts(Medium) https://leetcode.com/problems/escape-the-ghosts/description/
+
+- Transform to Chessboard(Hard) https://leetcode.com/problems/transform-to-chessboard/description/
+
+- Subarray Sum Equals K(Medium) https://leetcode.com/problems/subarray-sum-equals-k/description/
+
 ### 2018-02-20~2018-02-27
 
 - Search a 2D Matrix II(Medium) https://leetcode.com/problems/search-a-2d-matrix-ii/description/
