@@ -2,6 +2,18 @@
 
 # This week's problems. 
 
+### 2018-03-06~~2018-03-13
+
+- Number of Matching Subsequences(Medium) https://leetcode.com/problems/number-of-matching-subsequences/description/
+
+- Number of Subarrays with Bounded Maximum(Medium) https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/
+
+- Transform to Chessboard(Hard) https://leetcode.com/problems/transform-to-chessboard/description/
+
+- Evaluate Division(Medium) https://leetcode.com/problems/evaluate-division/description/
+
+### 2018-02-07~2018-02-27
+
 - Custom Sort String(Medium) https://leetcode.com/problems/custom-sort-string/description/
 
 - Escape the ghosts(Medium) https://leetcode.com/problems/escape-the-ghosts/description/
