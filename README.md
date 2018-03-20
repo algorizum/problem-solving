@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-03-20~2018-03-27
+
+- Rotate String(Easy) https://leetcode.com/problems/rotate-string/description/
+
+- All Paths From Source to Target(Medium) https://leetcode.com/problems/all-paths-from-source-to-target/description/
+
+- Champagne Tower(Medium) https://leetcode.com/problems/champagne-tower/description/
+
+- Bricks Falling When Hit(Hard) https://leetcode.com/problems/bricks-falling-when-hit/description/
+
 ### 2018-03-06~~2018-03-13
 
 - Number of Matching Subsequences(Medium) https://leetcode.com/problems/number-of-matching-subsequences/description/
