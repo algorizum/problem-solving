@@ -2,6 +2,14 @@
 
 # This week's problems. 
 
+### 2018-03-27~2018-04-03
+
+- Max Increase to Keep City Skyline(Medium) https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/
+
+- Minimum Swaps To Make Sequences Increasing(Medium) https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/
+
+- Unique Morse Code Words(Easy) https://leetcode.com/problems/unique-morse-code-words/description/
+
 ### 2018-03-20~2018-03-27
 
 - Rotate String(Easy) https://leetcode.com/problems/rotate-string/description/
