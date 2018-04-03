@@ -2,6 +2,14 @@
 
 # This week's problems. 
 
+### 2018-04-03~2018-04-10
+
+- Find Eventual Safe States(Medium) https://leetcode.com/problems/find-eventual-safe-states/description/
+
+- Split Array With Same Average(Hard) https://leetcode.com/problems/split-array-with-same-average/description/
+
+- Number of Lines To Write String(Easy) https://leetcode.com/problems/number-of-lines-to-write-string/description/
+
 ### 2018-03-27~2018-04-03
 
 - Max Increase to Keep City Skyline(Medium) https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/
