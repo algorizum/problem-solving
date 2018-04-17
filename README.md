@@ -2,6 +2,14 @@
 
 # This week's problems. 
 
+### 2018-04-17~2018-04-24
+
+- Largest Sum of Averages(Medium) https://leetcode.com/problems/largest-sum-of-averages/description/
+
+- Linked List Components(Medium) https://leetcode.com/problems/linked-list-components/description/
+
+- Race Car(Hard) https://leetcode.com/problems/race-car/description/
+
 ### 2018-04-03~2018-04-10
 
 - Find Eventual Safe States(Medium) https://leetcode.com/problems/find-eventual-safe-states/description/
