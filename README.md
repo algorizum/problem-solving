@@ -2,6 +2,15 @@
 
 # This week's problems. 
 
+### 2018-04-27~2018-05-08
+- Short Encoding of Words(Medium) https://leetcode.com/problems/short-encoding-of-words/description/
+
+- Binary Trees With Factors(Medium) https://leetcode.com/problems/binary-trees-with-factors/description/
+
+- Most Common Word(Easy) https://leetcode.com/problems/most-common-word/description/
+
+- Race Car(Hard) https://leetcode.com/problems/race-car/description/
+
 ### 2018-04-17~2018-04-24
 
 - Largest Sum of Averages(Medium) https://leetcode.com/problems/largest-sum-of-averages/description/
