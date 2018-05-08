@@ -2,6 +2,16 @@
 
 # This week's problems. 
 
+### 2018-05-08~2018-05-15
+
+- Positions of Large Groups(Easy) https://leetcode.com/problems/positions-of-large-groups/description/
+
+- Consecutive Numbers Sum(Medium) https://leetcode.com/problems/consecutive-numbers-sum/description/
+
+- Masking Personal Information(Medium) https://leetcode.com/problems/masking-personal-information/description/
+
+- Unique Letter String(Hard) https://leetcode.com/problems/unique-letter-string/description/
+
 ### 2018-04-17~2018-04-24
 
 - Largest Sum of Averages(Medium) https://leetcode.com/problems/largest-sum-of-averages/description/
