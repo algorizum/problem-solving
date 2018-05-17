@@ -2,6 +2,13 @@
 
 # This week's problems. 
 
+### 2018-05-15~2018-05-22
+
+- Flipping an Image(Easy) https://leetcode.com/problems/flipping-an-image/description/
+
+- Find And Replace in String(Medium) https://leetcode.com/problems/find-and-replace-in-string/description/
+
+- Sum of Distances in Tree(Hard) https://leetcode.com/problems/sum-of-distances-in-tree/description/
 
 ### 2018-05-08~2018-05-15
 
